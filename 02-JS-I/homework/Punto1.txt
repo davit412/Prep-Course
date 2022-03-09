@@ -1,0 +1,41 @@
+ * Variables:
+
+        La variables son como cajas de carton sin nada adentro y las podemos usar para guardar algunas varios tipos de cosas,
+        en una caja podemos guardar letras ó palabras ó frases, en otra podemos guardar números y en otra podemos guardar
+        verdadero o falso, también podemos guardar fechas. si tenemos muchas cajas debemos indicarle a cada una su nombre para
+        saber que tenemos guardado allí. A esas cajas las podemos dejar abiertas para ir cambiando lo que guardamos en su
+        interior ó podemos cerrar la caja para no sacar lo que guardamos, para ello debemos indicarle a la caja, si esta 
+        abierta escribimos "var" y si es cerrada escribimos "const". 
+
+        Es decir el nombre de la caja seria:
+         cuando es abierta ->  var cajaNumeros.
+         Cuando es cerrada ->  const cajaNumeros.
+
+__________________________________
+
+ * Strings:
+    
+    Los string son las palabras o frases que guardamos en nuestra caja o variable. 
+
+__________________________________
+
+ * Funciones (argumentos, `return`)
+
+    Las funciones son las acciones que le decimos a la computadora que debe hacer, es decir si queremos guardar una imagen
+    debemos inidicarle a la pc que queremos guardar una imagen y luego debemos seleccionar nuentra imagen. el argumento es la
+    imagen que seleccionamos. luego de indicarle la función a nuentras pc ella nos debe retornar donde quedo guardada nuestra 
+    foto o también nos debe indicar que si quedo guardada.
+
+___________________________________
+
+ * Declaraciones `if`
+
+    La declaración if, es una condición que expresamos a diario, es decir a veces mamá o papá no preguntan "¿Terminaste tu
+    tarea?", entonces si la respuesta es que "Si" puedes usar las play, pero si tu respuesta es "NO", entonces no puedes 
+    usar las play. 
+
+__________________________________
+
+ * Valores booleanos (`true`, `false`)
+
+    Los valores booleanos son respuestas cortas a preguntas cuando debemos contestar "Verdadero o Falso".
