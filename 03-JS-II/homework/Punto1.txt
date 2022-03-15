@@ -1,0 +1,14 @@
+*****
+
+Ciclo for -> Es una sentencia de código que se repite hasta que la condición sea falsa.
+
+
+******
+
+|| -> es una operador logico que no ayuda en las condiciones a tener más de una validación, y si una de las condiciones
+        es verdadera se ejecuta el codigo en la sección de verdadero.
+
+&& -> es una operador logico que no ayuda en las condiciones a tener más de una validación, y si todas de las condiciones
+        son verdaderas se ejecuta el codigo en la sección de verdadero.
+
+! -> Este operador es cuando necesitamos validar diferentes cosas con respecto al valor de la condición.
