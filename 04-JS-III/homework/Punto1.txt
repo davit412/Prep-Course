@@ -1,0 +1,5 @@
+
+Array =
+
+Los Array son similares a un tres con vagones, es decir en cada vagon podemos guardar un elemento y así ir colocando otros vagones
+a nuestro tren, solo que los elementos en cada vagon deben ser del mismo tipo.
