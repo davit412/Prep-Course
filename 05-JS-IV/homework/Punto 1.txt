@@ -1,0 +1,19 @@
+************
+
+1. Objetos: Los objetos en java script son como una pequeña habitación con un mueble en la pared con casilleros, en 
+cada casillero tiene un nombre (Clave), y allí guardamos información (valor)referente al nombre del casillero. Mediante el 
+nombre de la habitación podemos acceder a cada casillero y su información almacenada.
+
+2. Propiedades:  Las propiedades son los casillero mencionados en el punto anterior. 
+
+3. Método: Son maquinas donde uno las enciende (Llamado) y convierten datos, información entre otras cosas, dependiendo 
+que valores ingresense este nos retorna otro valor que necesitamos.
+
+4. Bucle for in: Es un robot que pasa por cada casillero (Clave) mostrando el valor (Valor) en ellos. 
+
+5. Notación de puntos: Esta notación de puntos se usa para hacer referencia a los casillero y acceder
+ a la información especifica. es decir mediante el nombre de la habitación.nombre_del_casillero.
+
+6. Notación de corchetes: es otra forma de acceder a los casilleros (Claves). es decir mediante la siguiente
+sintaxis nombreHabitación[Casillero]. 
+
