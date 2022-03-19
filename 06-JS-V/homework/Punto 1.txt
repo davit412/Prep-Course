@@ -1,0 +1,6 @@
+************************
+
+
+1. Prototype : Es la forma de establecer métodos a las clases para que los objetos puedan acceder y mejorar el rendimiento de la memoria.
+
+2. _Constructors_ (de Clases): Es una plantilla diseñada en una clase para crear objetos.
