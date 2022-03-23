@@ -1,0 +1,27 @@
+html{
+    background: url("./original.jpg");
+}
+
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aliceblue;
+    padding: 50px;
+    border: 1px solid gray;
+    margin: auto;
+  
+   
+}
+.divClass{
+    margin-top: 50px;
+    text-align: center;
+  
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
