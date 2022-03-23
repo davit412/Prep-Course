@@ -1,0 +1,57 @@
+html{
+    
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg");
+    background-repeat: repeat-y;
+    background-size: 520px 1420px;
+}
+
+img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+#titulo{
+    margin: auto;
+    color: darkcyan;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+    width: 800px;
+}
+
+h3{
+    text-align: center;
+    font-family:monospace;
+    font-size: 20px;
+
+}
+
+span{
+    font-family:monospace;
+    font-size: 16px;
+}
+div{
+    width: 700px;
+    margin: auto;
+    text-align: justify;
+}
+
+table{
+    margin-top: 25px;
+  
+}
+
+li{
+    font-family:monospace;
+    font-size: 16px;
+}
+
+p{
+    font-family:monospace;
+    font-size: 16px;
+}
+
+#subTitulo{
+    font-weight: 500px;
+    text-decoration: underline;
+}
